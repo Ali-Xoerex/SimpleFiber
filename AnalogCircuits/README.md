@@ -1,6 +1,6 @@
 # Analog Circuits
 Very basic and useful analog circuits simulation using Proteus, including :
-* Inverting * Non-Inverting Gain blocks
+* Inverting & Non-Inverting Gain blocks
 * Analog adder circuit
 * Buffer,NOT,AND,OR Gates using BJT transistors
 
